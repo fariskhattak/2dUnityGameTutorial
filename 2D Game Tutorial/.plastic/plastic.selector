@@ -1,0 +1,4 @@
+repository "2D Game Tutorial@fariskhattak@cloud"
+  path "/"
+    br "/main"
+    co "/main"
